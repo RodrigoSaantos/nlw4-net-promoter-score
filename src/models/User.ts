@@ -1,5 +1,5 @@
-import { v4 as uuid } from 'uuid';
 import { Column, CreateDateColumn, Entity, PrimaryColumn, UpdateDateColumn } from "typeorm";
+import { v4 as uuid } from 'uuid';
 
 @Entity("Users")
 class User {
@@ -26,4 +26,4 @@ class User {
   }
 }
 
-export { User }
+export { User };

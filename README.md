@@ -69,6 +69,8 @@ The following tools were used in the construction of the project:
 
 <h2 id="usage" > 👷 Usage </h2>
 
+Rename files "**ormconfig.example.json**", "**.env.example**" to **ormconfig.json**, "**.env**"
+
 Required! Install git, node and yarn (or npm).
 
 ```bash
@@ -115,8 +117,7 @@ By Rodrigo Santos 👋🏽 Find me:
 
 <h1 align="center">
   <div style="display: flex; flex-direction: row;">
-    <img width="900" style="border-radius: 10px" height="auto" alt="home" title="Level Up" src="public/assets/home.gif" />
-    <img width="900" style="border-radius: 10px" height="auto" alt="completed" title="Level Up" src="public/assets/completed.gif" />
+    <img width="900" style="border-radius: 10px" height="auto" alt="demo" title="demo" src="public/assets/demo.gif" />
   <div>
 </h1>
 

@@ -9,19 +9,19 @@
 <div align="center">
 
   <a href="">
-    <img src="https://img.shields.io/github/languages/count/RodrigoSaantos/nlw4-net-promoter-score.svg" alt="languages" >
+    <img src="https://img.shields.io/github/languages/count/RodrigoSaantos/nlw4-net-promoter-score.svg?color=%238257E5" alt="languages" >
   </a>
 
   <a href="">
-    <img src="https://img.shields.io/github/languages/top/RodrigoSaantos/nlw4-net-promoter-score.svg" alt="languagesTop" >
+    <img src="https://img.shields.io/github/languages/top/RodrigoSaantos/nlw4-net-promoter-score.svg?color=%238257E5" alt="languagesTop" >
   </a>
 
   <a href="">
-    <img src="https://img.shields.io/github/repo-size/RodrigoSaantos/nlw4-net-promoter-score.svg" alt="repo-size" >
+    <img src="https://img.shields.io/github/repo-size/RodrigoSaantos/nlw4-net-promoter-score.svg?color=%238257E5" alt="repo-size" >
   </a>
 
   <a href="">
-    <img src="https://img.shields.io/github/last-commit/RodrigoSaantos/nlw4-net-promoter-score.svg" alt="last-commit" >
+    <img src="https://img.shields.io/github/last-commit/RodrigoSaantos/nlw4-net-promoter-score.svg?color=%238257E5" alt="last-commit" >
   </a>
   
 </div>

@@ -6,6 +6,7 @@ import { UsersRepository } from "../repositories/UsersRepository"
 import { resolve } from 'path';
 
 import SendMailService from "../services/SendMailService";
+import { AppError } from "../errors/AppError";
 
 class SendMailController {
 
@@ -19,17 +20,13 @@ class SendMailController {
     const user = usersRepository.findOne({ email });
 
     if (!user) {
-      return response.status(400).json({
-        error: 'User does not exists!'
-      })
+      throw new AppError('User does not exists!')
     }
 
     const survey = surveysRepository.findOne({ id: survey_id });
 
     if (!survey) {
-      return response.status(400).json({
-        error: 'Surveys does not exists!'
-      })
+      throw new AppError('Surveys does not exists!')
     }
 
     const npsPath = resolve(__dirname, '..', 'views', 'emails', 'npsMail.hbs')

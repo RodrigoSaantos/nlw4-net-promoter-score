@@ -39,7 +39,7 @@
 </p>
 
 <h1 align="center">
-  <img width="600" style="border-radius: 10px" height="auto" alt="email" title="email" src="public/assets/email.png" />
+  <img width="600" style="border-radius: 10px" height="auto" alt="email" title="email-send" src="public/assets/email-send.png" />
 </h1>
 
 <h4 align="center"> 
